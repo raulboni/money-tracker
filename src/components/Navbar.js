@@ -16,7 +16,7 @@ export const Navbar = () => {
     >
         <ul>
           <li className={styles.title}>
-            <Link to='/'>laPela</Link></li>  
+            <Link to='/'>miMoney</Link></li>  
           {!user && 
           <>
           <li><Link to='/login'>Login</Link></li>
